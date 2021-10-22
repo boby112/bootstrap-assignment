@@ -1,0 +1,29 @@
+h1{
+    font-size: 60px;
+}
+.name-highlight{
+    color:orangered;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+    float: left;
+}
+#price{
+    color:rgba(250, 128, 76, 1);
+    font-weight: bold;
+}
+.card-title , .woman, .man{
+    color: purple;
+    font-weight: bold;
+    
+}
+p{
+    color: darkslategrey;
+}
+
